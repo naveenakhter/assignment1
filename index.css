@@ -1,0 +1,197 @@
+.logo{
+    width:150px;
+    margin-left: 10px;
+    height: 130px;
+    
+}
+
+#navbarSupportedContent{
+        padding-left: 80px;
+        font-size:medium;
+        font-weight:bold;
+        color: #d87e7e;
+        text-decoration: overline;
+}  
+.nav-item a:hover{
+        background-color:bisque;
+        border-radius: 5px;
+        transition: 0.5s;
+      }
+      li{
+        padding-left: 20px;
+      }
+      i{
+        padding-right: 15px;
+        padding-top: 13px;
+        }
+        .d-flex{
+          width: 60vh;
+          background-size: contain;
+        }
+
+   hr{
+          margin-top: 10px;
+          }
+   
+   .cardbutton{
+          text-decoration: none;
+          text-align: center;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          border-radius: 5px;
+          height: 50px;
+          width: 190px;
+          padding-bottom: 20px;
+          padding-right: 20px;
+          font-size: large;
+          font-weight: 400;
+          color:white;;
+          background-color: #e25d5d;;
+          font-weight: bold;
+          }
+   
+    #carticon{
+          padding-right: 10px;
+       }                     
+   .card-text{
+    font-size: large;
+    padding-top: 2px;
+    padding-left: 10px;
+    font-weight: bold;
+     font-family:sans-serif;
+          }
+  .colcard{
+    object-fit: cover;
+    text-align: center;
+    padding: 40px;
+    border-color: black;
+    padding-left: 50px;
+    transform: scale(1.05);
+  }
+  .card-bodygift{
+      height: 170px;
+  }
+  .heading{
+      font-weight: bold;
+      color:#e25d5d ;
+  }
+  .Brands{
+         padding-top: 20px;
+         text-align: center;
+         color:#e25d5d;
+         font-size:50px;
+         padding-bottom: 10px;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+  
+  .card {
+         height: 370px;
+         margin-bottom: 50px;
+         border-radius: 15px;
+         overflow: hidden;
+         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+         transition: transform 0.3s;
+     }
+     .card:hover {
+         transform: scale(1.05);
+     }
+     .image-container {
+         position: relative;
+         height: 100px;
+         width: 1000%;     
+         object-fit: cover; 
+     }
+     .card-img-top {
+         width: 100%;       
+         height: 350px;    
+         object-fit: cover; 
+     }
+  
+     .card-body {
+         text-align: center;
+         padding: 15px;
+     }
+     .card-title {
+         font-size: 1.5rem;
+         font-weight:400;
+         margin-bottom: 10px; 
+         color: #e25d5d;  
+     }
+     .card-text {
+         font-size: 1rem;
+         font-style: italic;
+         color: #555;
+     }
+   
+  #homecard{
+      margin-top: 30px;
+  }
+  .Customer{
+      text-align: center;
+      margin-top: 80px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: xx-large;
+     color: #8b4e07; 
+  }
+  
+  .sets{
+      text-align: center;
+      margin-top: 90px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 40px;
+     color:#e25d5d; 
+     line-height: 50px;
+  }
+  .footer {
+    margin-top: 0px;
+    background-color:#d87e7e;
+    padding: 50px 0;
+    color:white;
+    font-weight: 600;
+  }
+  
+  .footer .row {
+    margin: 0 -15px;
+  }
+  
+  .footer h4 {
+    padding-right: 220px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer li {
+    margin-bottom: 10px;
+  }
+  
+  .footer a {
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .footer .social-media {
+    margin-top: 10px;
+  }
+  
+  .footer .social-media li {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: x-large;
+  }
+  
+  .footer .copyright {
+    background-color:#d87e7e;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    clear: both;
+  }
+  
